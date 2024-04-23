@@ -1,0 +1,192 @@
+#draggable { 
+    margin-top: 50px;
+    width: 150px; 
+    height: 150px; 
+    padding: 10px;
+    background-color: brown; 
+    color: white;
+}
+
+#dragg { 
+    width: 100px; 
+    height: 100px; 
+    padding: 0.5em;
+    margin: 10px 10px 10px 0; 
+}
+  #dropp { 
+    width: 150px;
+    height: 150px; 
+    padding: 0.5em;
+    margin: 10px; 
+}
+#resizable { 
+    width: 150px; 
+    height: 150px; 
+    padding: 10px;
+    margin: 30px 0; 
+}
+  #resizable h3 { 
+    text-align: center; 
+    margin: 0; 
+}
+
+#feedback { 
+    font-size: 1.4em; 
+}
+  #selectabl .ui-selecting { 
+    background: #FECA40; 
+}
+  #selectabl .ui-selected { 
+    background: #F39814; color: white; 
+}
+  #selectabl { 
+    list-style-type: none; 
+    margin: 0; 
+    padding: 0; 
+    width: 60%; 
+}
+  #selectabl li { 
+    margin: 3px; 
+    padding: 15px; 
+    font-size: 1.4em;
+}
+
+#sortable { 
+  list-style-type: none; 
+  margin: 0; 
+  padding: 0; 
+  width: 60%;
+}
+  #sortable li { 
+    margin: 0 3px 3px 3px; 
+    padding: 0.4em; 
+    padding-left: 1.5em; 
+    font-size: 1.4em; 
+    background-color: blue;
+    color: white;
+  }
+  #sortable li span {  
+    margin-left: -1.3em;
+  }
+
+
+
+  .togglerg { 
+    width: 500px; 
+    height: 200px;
+  }
+
+    #effecthu { 
+      width: 240px;  
+      padding: 1em; 
+      border: 1px solid #000; 
+      background: #eee; 
+      color: #333; 
+    }
+    .newClass { 
+      text-indent: 40px; 
+      letter-spacing: .4em; 
+      width: 410px; 
+      height: 120px; 
+      padding: 30px; 
+      margin: 10px; 
+      font-size: 1.1em; 
+    }
+
+
+    .toggsf { 
+      width: 500px; 
+      height: 200px; 
+    }
+    #effectiop { 
+      width: 240px;
+      height: 190px;
+      padding: 0.4em; 
+      position: relative; 
+      background: #fff; 
+    }
+    #effectiop h3 { 
+      margin: 0; 
+      padding: 0.4em; 
+      text-align: center; 
+    }
+
+
+    .tojdfoj { 
+      width: 500px; 
+      height: 200px; 
+     }
+    #effecfkdg { 
+      width: 240px; 
+      height: 190px; 
+      padding: 0.4em;
+     }
+    #effecfkdg h3 { 
+      margin: 0; 
+      padding: 0.4em; 
+      text-align: center; 
+    }
+    .ui-effects-transfer { 
+      border: 2px dotted gray; 
+    }
+
+
+
+    #parent {
+      width: 60%;
+      height: 40px;
+      margin: 10px auto;
+      padding: 5px;
+      border: 1px solid #777;
+      background-color: #fbca93;
+      text-align: center;
+    }
+    .positionable {
+      position: absolute;
+      display: block;
+      right: 0;
+      bottom: 0;
+      background-color: #bcd5e6;
+      text-align: center;
+    }
+    #positionable1 {
+      width: 75px;
+      height: 75px;
+    }
+    #positionable2 {
+      width: 120px;
+      height: 40px;
+    }
+    select, input {
+      margin-left: 15px;
+    }
+
+
+    .custom-colorize {
+      font-size: 20px;
+      position: relative;
+      width: 75px;
+      height: 75px;
+    }
+    .custom-colorize-changer {
+      font-size: 10px;
+      position: absolute;
+      right: 0;
+      bottom: 0;
+    }
+
+    #progressbar {
+      margin-top: 20px;
+    }
+   
+    .progress-label {
+      font-weight: bold;
+      text-shadow: 1px 1px 0 #fff;
+    }
+   
+    .ui-dialog-titlebar-close {
+      display: none;
+    }
+
+
+
